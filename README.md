@@ -26,7 +26,7 @@ This project is a modern coffee shop website design that includes:
 - Modern sections and cards
 
 ## Project Preview
-![Coffee Shop Website]("Downloads/Coffee.jpg")
+![Coffee Shop Website]("C:\Users\surbh\Downloads\coffee.png.jpeg")
 
 ## Author
 Rekha Nandani
